@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="mparus/android_device_huawei_cherry-2" path="device/huawei/cherry" remote="github" />
+  <project name="mparus/android_device_huawei_msm8916-common" path="device/huawei/msm8916-common" remote="github" />
+  <project name="mparus/android_kernel_huawei_msm8916-1" path="kernel/huawei/desalesouche" remote="github" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" />
+  <project name="mparus/proprietary_vendor_huawei" path="vendor/huawei" remote="github" />
+</manifest>
